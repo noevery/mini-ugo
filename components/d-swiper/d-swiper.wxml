@@ -1,0 +1,14 @@
+<!--components/d-swiper/d-swiper.wxml-->
+<swiper indicator-dots
+        autoplay
+        interval="3000"
+        circular
+        class="swiper">
+    <block wx:for="{{list}}" wx:key="goods_id">
+        <swiper-item class="swiper-item">
+            <navigator url="{{item.navigator.url}}">
+                <image src="{{item.image_src}}" mode="widthFix"></image>
+            </navigator>
+        </swiper-item>
+    </block>
+</swiper>

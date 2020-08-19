@@ -1,0 +1,8 @@
+<!--components/d-nav/d-nav.wxml-->
+<view class="nav">
+    <block wx:for="{{list}}" wx:key="name">
+        <navigator url="item.navigator_url" class="nav-item">
+            <image src="{{item.image_src}}" mode="widthFix"></image>
+        </navigator>
+    </block>
+</view>

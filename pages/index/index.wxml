@@ -1,0 +1,31 @@
+<!--pages/index/index.wxml-->
+<!--搜索框-->
+<d-search-input></d-search-input>
+<!--轮播图-->
+<d-swiper list="{{bannerList}}"></d-swiper>
+<!--导航-->
+<d-nav list="{{navList}}"></d-nav>
+<!--楼层-->
+<view class="floor">
+    <block wx:for="{{floorList}}"
+           wx:for-item="item1"
+           wx:for-index="index1"
+           wx:key="name">
+        <view>
+            <view class="hd">
+                <image src="{{item1.floor_title.image_src}}" mode="widthFix"></image>
+            </view>
+            <view class="bd">
+                <block  wx:for="{{item1.product_list}}"
+                    wx:for-item="item2"
+                    wx:for-index="index2"
+                    wx:key="name">
+                    <navigator url="{{item2.navigator_url}}">
+                        <image src="{{item2.image_src}}" mode="{{index2===0?'widthFix':'scaleToFill'}}"></image>
+                    </navigator>
+            </block>
+            </view>
+        </view>
+    </block>
+
+</view>

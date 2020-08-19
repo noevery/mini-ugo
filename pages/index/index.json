@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "d-search-input": "/components/d-search-input/d-search-input",
+    "d-swiper": "/components/d-swiper/d-swiper",
+    "d-nav": "/components/d-nav/d-nav"
+  }
+}
