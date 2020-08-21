@@ -1,1 +1,4 @@
 /* pages/goods_detail/goods_detail.wxss */
+page {
+    padding-bottom: 90rpx;
+}

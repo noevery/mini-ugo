@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "l-head": "./childCpns/l-head/l-head",
+    "l-content": "./childCpns/l-content/l-content"
+  }
 }

@@ -1,0 +1,19 @@
+/* components/d-category-left/d-category-left.wxss */
+
+.category-left {
+    width: 100%;
+    height: 100%;
+}
+
+.category-left view{
+    height: 80rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30rpx;
+}
+
+.active {
+    color: var(--themeColor);
+    border-left: 5rpx solid currentColor;
+}

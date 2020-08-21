@@ -1,0 +1,13 @@
+<!--pages/goods_detail/childCpns/l-swiper/l-swiper.wxml-->
+<swiper indicator-dots
+        autoplay
+        interval="3000"
+        circular
+        class="swiper">
+    <block wx:for="{{list}}" wx:key="pics_id">
+        <swiper-item class="swiper-item" bindtap="handleBigImg" data-url="{{item.pics_mid}}">
+            <image src="{{item.pics_mid}}" mode="widthFix"></image>
+        </swiper-item>
+    </block>
+</swiper>
+

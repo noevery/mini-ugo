@@ -1,0 +1,5 @@
+<!--pages/goods_detail/childCpns/l-content/l-content.wxml-->
+<view class="content">
+    <view class="tit">图文详情</view>
+    <rich-text nodes="{{info}}"></rich-text>
+</view>

@@ -1,18 +1,27 @@
 // pages/goods_detail/goods_detail.js
+
+import { getGoodsDetail } from "../../network/goods_detail";
+
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    id: '',
+    banner: [],
+    collect: {},
+    content: ''
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+    this.data.id = options.id
 
+    //获取商品详情数据
+    this.__getGoodsDetail()
   },
 
   /**
@@ -21,7 +30,25 @@ Page({
   onReady: function () {
 
   },
+  //----------------   网络请求 ----------
+  async __getGoodsDetail() {
+      const {data: {message: goodsObj}} = await getGoodsDetail(this.data.id)
+      const collect = {}
+      console.log(goodsObj);
+      collect.goods_id = goodsObj.goods_id
+      collect.goods_small_logo = goodsObj.goods_small_logo
+      collect.goods_price = goodsObj.goods_price
+      collect.goods_name = goodsObj.goods_name
 
+      this.setData({
+        banner: goodsObj.pics,
+        collect,
+        content: goodsObj.goods_introduce
+      })
+
+
+
+  },
   /**
    * 生命周期函数--监听页面显示
    */

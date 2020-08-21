@@ -1,0 +1,7 @@
+/* pages/goods_detail/childCpns/l-content/l-content.wxss */
+.content .tit {
+    font-size: 32rpx;
+    color: var(--themeColor);
+    font-weight: 600;
+    padding: 20rpx;
+}

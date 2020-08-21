@@ -1,0 +1,29 @@
+/* pages/goods_list/childCpns/l-list/l-list.wxss */
+.l-list .item {
+    padding: 0 15rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2rpx solid #ccc;
+}
+.l-list .item .hd {
+    width: 40%;
+}
+.l-list .item .bd {
+    padding-left: 15rpx;
+    width: 60%;
+
+}
+.l-list .bd .name {
+    margin-bottom: 30rpx;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+}
+.l-list .bd .price {
+    color: var(--themeColor);
+    font-size: 32rpx;
+}

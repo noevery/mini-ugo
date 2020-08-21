@@ -1,0 +1,9 @@
+<!--components/d-category-left/d-category-left.wxml-->
+<scroll-view class="category-left" scroll-y scroll-left>
+    <block wx:for="{{list}}"
+           wx:key="cat_id">
+        <view bindtap="handleClickActive"
+              data-index="{{index}}"
+              class="{{activeIndex === index ? 'active':''}}">{{item.cat_name}}</view>
+    </block>
+</scroll-view>

@@ -1,2 +1,9 @@
 <!--pages/category/category.wxml-->
-<text>pages/category/category.wxml</text>
+<!--s搜索-->
+<d-search-input></d-search-input>
+<view class="category">
+    <d-category-left list="{{cateList}}"
+                     class="d-category-left"
+                     bind:activeClick="handleGetIndex"></d-category-left>
+    <d-category-right list="{{childrenList}}" class="d-category-right"></d-category-right>
+</view>

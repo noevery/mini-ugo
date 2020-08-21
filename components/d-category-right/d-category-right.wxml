@@ -1,0 +1,22 @@
+<!--components/d-category-right/d-category-right.wxml-->
+<scroll-view class="category-right" scroll-left scroll-y>
+    <block wx:for="{{list}}"
+           wx:for-item="item1"
+           wx:for-index="index1"
+           wx:key="cat_id">
+        <view class="rightList">
+            <view class="hd">/ <text>{{item1.cat_name}}</text> /</view>
+            <view class="bd">
+                <block wx:for="{{item1.children}}"
+                       wx:for-item="item2"
+                       wx:for-index="index2"
+                       wx:key="cat_id">
+                    <navigator class="bd_item" url="/pages/goods_list/goods_list?id={{item2.cat_id}}">
+                        <image src="{{item2.cat_icon}}" mode="widthFix"></image>
+                        <view>{{item2.cat_name}}</view>
+                    </navigator>
+                </block>
+            </view>
+        </view>
+    </block>
+</scroll-view>

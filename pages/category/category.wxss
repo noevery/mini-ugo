@@ -1,1 +1,12 @@
 /* pages/category/category.wxss */
+.category {
+    display: flex;
+    height: calc(100vh - 90rpx);
+}
+
+.category .d-category-left {
+    width: 35%;
+}
+.category .d-category-right {
+    width: 65%;
+}

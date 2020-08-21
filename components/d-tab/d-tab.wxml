@@ -1,0 +1,11 @@
+<!--components/d-tab/d-tab.wxml-->
+<view class="d-tab">
+    <block wx:for="{{list}}"
+           wx:key="index">
+        <view
+              class="{{index === activeIndex ? 'active' : ''}}"
+
+              data-index="{{index}}"
+              bindtap="handleChangeIndex">{{item}}</view>
+    </block>
+</view>

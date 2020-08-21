@@ -1,1 +1,4 @@
 /* pages/pay/pay.wxss */
+page {
+    padding-bottom: 90rpx;
+}

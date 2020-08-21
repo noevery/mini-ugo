@@ -1,0 +1,11 @@
+<!--pages/goods_detail/childCpns/l-collection/l-collection.wxml-->
+<view class="collection">
+    <view class="price">￥{{collect.goods_price}}</view>
+    <view class="text">
+        <view class="hd">{{collect.goods_name}}</view>
+        <view class="bd" bindtap="handleCollect">
+            <text class="iconfont {{isCollect ? 'icon-shoucang1' : 'icon-shoucang'}}"></text>
+            <view>收藏</view>
+        </view>
+    </view>
+</view>

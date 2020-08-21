@@ -1,2 +1,9 @@
 <!--pages/goods_detail/goods_detail.wxml-->
-<text>pages/goods_detail/goods_detail.wxml</text>
+<!--轮播图-->
+<l-swiper list="{{banner}}"></l-swiper>
+<!--收藏-->
+<l-collection collect="{{collect}}"></l-collection>
+<!--内容-->
+<l-content info="{{content}}"></l-content>
+<!--底部按钮-->
+<l-tabbar obj="{{collect}}"></l-tabbar>

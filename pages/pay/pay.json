@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "d-address": "/components/d-address/d-address",
+    "l-list": "./childCpns/l-list/l-list"
+  },
+  "navigationBarTitleText": "商品支付"
 }

@@ -21,7 +21,19 @@ Page({
   onReady: function () {
 
   },
-
+  //获取用户信息
+  handleUserInfo({detail: {userInfo}}) {
+    wx.setStorageSync("userInfo", userInfo)
+    wx.navigateBack({
+      delta: 1,
+      success(res) {
+        wx.showToast({
+          title: '登录成功',
+          icon: "success"
+        })
+      }
+    })
+  },
   /**
    * 生命周期函数--监听页面显示
    */

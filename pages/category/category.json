@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "d-search-input": "/components/d-search-input/d-search-input",
+    "d-category-left": "/components/d-category-left/d-category-left",
+    "d-category-right": "/components/d-category-right/d-category-right"
+  }
 }

@@ -1,0 +1,27 @@
+/* components/d-category-right/d-category-right.wxss */
+.category-right {
+    width: 100%;
+    height: 100%;
+}
+.category-right .hd {
+    margin-bottom: 20rpx;
+    text-align: center;
+    color: #dcdcdc;
+}
+.category-right .hd text {
+    color: #000;
+}
+.category-right .bd {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.category-right .bd_item {
+    text-align: center;
+    width: 33.3%;
+    padding: 10rpx 25rpx;
+}
+.category-right .rightList {
+    margin-top: 20rpx;
+    margin-bottom: 20rpx;
+}

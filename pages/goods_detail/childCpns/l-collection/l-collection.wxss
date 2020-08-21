@@ -1,0 +1,39 @@
+/* pages/goods_detail/childCpns/l-collection/l-collection.wxss */
+
+@import '/assets/css/font.wxss';
+
+.collection {
+
+}
+.collection .price {
+    padding: 32rpx;
+    color: var(--themeColor);
+    font-size: 32rpx;
+}
+.collection .text {
+    border-top: 5rpx solid #dedede;
+    border-bottom: 5rpx solid #dedede;
+    padding: 10rpx 0;
+    display: flex;
+}
+.collection .hd {
+    flex: 5;
+    color: #000;
+    font-size: 30rpx;
+    padding: 0 10rpx;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+.collection .bd {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-left: 1rpx solid #000;
+}
+.collection .icon-shoucang1 {
+    color: #ff4500;
+}
