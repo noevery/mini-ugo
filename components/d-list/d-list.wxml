@@ -1,0 +1,22 @@
+<!--pages/goods_list/childCpns/d-list/d-list.wxml-->
+<view class="l-list">
+    <block wx:for="{{list}}"
+           wx:key="goods_id" wx:if="{{currentIndex === 0}}">
+        <navigator class="item" url="/pages/goods_detail/goods_detail?id={{item.goods_id}}">
+            <view class="hd">
+                <image src="{{item.goods_small_logo}}"
+                       mode="widthFix"></image>
+            </view>
+            <view class="bd">
+                   <view class="name">{{item.goods_name}}</view>
+                   <view class="price">{{item.goods_price}}</view>
+            </view>
+        </navigator>
+    </block>
+    <block wx:if="{{currentIndex === 1}}">
+        <view>1</view>
+    </block>
+    <block wx:if="{{currentIndex === 2}}">
+        <view>2</view>
+    </block>
+</view>

@@ -1,0 +1,6 @@
+<!--pages/collect/childCpns/l-cate/l-cate.wxml-->
+<view class="collect_title">
+    <text class="collect_tips active">全部</text>
+    <text class="collect_tips">正在热卖</text>
+    <text class="collect_tips">即将上线</text>
+</view>

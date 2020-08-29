@@ -1,2 +1,6 @@
 <!--pages/collect/collect.wxml-->
-<text>pages/collect/collect.wxml</text>
+<d-tab list="{{tabList}}"></d-tab>
+<view class="collect_main">
+    <l-cate></l-cate>
+    <d-list list="{{list}}"></d-list>
+</view>

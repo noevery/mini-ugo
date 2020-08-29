@@ -47,6 +47,18 @@ export const chooseAddress = () => {
   })
 }
 
+
+//显示模态对话框
+export const showModal = (title, content) => {
+  return new Promise((resolve, reject) => {
+    wx.showModal({
+      title: title || '',
+      content: content || '',
+      success: resolve,
+      fail: reject
+    })
+  })
+}
 /*module.exports = {
   formatTime: formatTime,
 }*/

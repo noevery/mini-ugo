@@ -6,7 +6,7 @@
         class="swiper">
     <block wx:for="{{list}}" wx:key="goods_id">
         <swiper-item class="swiper-item">
-            <navigator url="{{item.navigator.url}}">
+            <navigator url="/pages/goods_detail/goods_detail?id={{item.goods_id}}">
                 <image src="{{item.image_src}}" mode="widthFix"></image>
             </navigator>
         </swiper-item>

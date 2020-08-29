@@ -1,3 +1,5 @@
 <!--pages/pay/pay.wxml-->
 <d-address></d-address>
 <l-list></l-list>
+<l-bottom></l-bottom>
+

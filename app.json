@@ -6,7 +6,9 @@
     "pages/user/user",
     "pages/goods_list/goods_list",
     "pages/goods_detail/goods_detail",
-    "pages/pay/pay"
+    "pages/pay/pay",
+    "pages/collect/collect",
+    "pages/feedback/feedback"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -2,6 +2,8 @@
 <!--收货地址-->
 <d-address></d-address>
 <!--购物车列表-->
-<l-list cart="{{cart}}" bind:handleIsChecked="handleIsChecked"></l-list>
+<l-list cart="{{cart}}"
+        bind:handleIsChecked="handleIsChecked"
+        bind:handleAddNum="handleAddNum"></l-list>
 <!--底部工具-->
 <l-bottom cart="{{cart}}" bind:handleAllCheck="handleAllCheck"></l-bottom>

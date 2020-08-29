@@ -8,7 +8,7 @@
                 <view class="his_num">0</view>
                 <view class="his_name">收藏的店铺</view>
             </navigator>
-            <navigator url="/pages/collect/index">
+            <navigator url="/pages/collect/collect">
                 <view class="his_num">{{collectNums}}</view>
                 <view class="his_name">收藏的商品</view>
             </navigator>
@@ -53,7 +53,7 @@
                 <text>联系客服</text>
                 <text>400-618-4000</text>
             </view>
-            <navigator url="/pages/feedback/index" class="app_info_item">意见反馈</navigator>
+            <navigator url="/pages/feedback/feedback" class="app_info_item">意见反馈</navigator>
             <view class="app_info_item">关于我们</view>
         </view>
         <!-- 推荐 -->

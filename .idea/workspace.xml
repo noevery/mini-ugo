@@ -2,40 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfc4884-1400-4d65-8571-c73699d9e5e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/network/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/goods_detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/network/goods_detail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/goods_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/network/goods_list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-address/d-address.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-address/d-address.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-address/d-address.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-address/d-address.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-address/d-address.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-address/d-address.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-category-left/d-category-left.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-category-left/d-category-left.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-category-left/d-category-left.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-category-left/d-category-left.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-category-left/d-category-left.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-category-left/d-category-left.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-category-right/d-category-right.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-category-right/d-category-right.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-category-right/d-category-right.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-category-right/d-category-right.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-category-right/d-category-right.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-category-right/d-category-right.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-nav/d-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-nav/d-nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-nav/d-nav.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-nav/d-nav.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-nav/d-nav.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-nav/d-nav.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-search-input/d-search-input.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-search-input/d-search-input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-search-input/d-search-input.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-search-input/d-search-input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-search-input/d-search-input.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-search-input/d-search-input.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-swiper/d-swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-swiper/d-swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-swiper/d-swiper.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-swiper/d-swiper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-swiper/d-swiper.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-swiper/d-swiper.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-tab/d-tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-tab/d-tab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-tab/d-tab.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-tab/d-tab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/d-tab/d-tab.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/d-tab/d-tab.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-ugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/auth/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/auth/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/auth/auth.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/auth/auth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/auth/auth.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/auth/auth.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/cart/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/cart/cart.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/cart.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/cart/cart.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/cart.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/cart/cart.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/cart.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart/childCpns/l-list/l-list.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/category/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/category/category.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/category/category.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/category/category.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/category/category.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/category/category.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/category/category.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/category/category.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/collect/collect.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/collect/collect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/collect/collect.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/collect/collect.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/collect/collect.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/collect/collect.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/collect/collect.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/collect/collect.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/feedback/feedback.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/feedback/feedback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/feedback/feedback.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/feedback/feedback.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/feedback/feedback.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/feedback/feedback.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/feedback/feedback.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/feedback/feedback.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-collection/l-collection.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-collection/l-collection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-collection/l-collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-collection/l-collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-collection/l-collection.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-collection/l-collection.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-tabbar/l-tabbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-tabbar/l-tabbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-tabbar/l-tabbar.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-tabbar/l-tabbar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-tabbar/l-tabbar.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/childCpns/l-tabbar/l-tabbar.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods_detail/goods_detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/goods_detail.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods_detail/goods_detail.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/goods_detail.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods_detail/goods_detail.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/goods_detail.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/goods_detail/goods_detail.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_detail/goods_detail.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods_list/goods_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_list/goods_list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods_list/goods_list.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_list/goods_list.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods_list/goods_list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods_list/goods_list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/childCpns/l-floor/l-floor.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/childCpns/l-floor/l-floor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/childCpns/l-floor/l-floor.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/childCpns/l-floor/l-floor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/childCpns/l-floor/l-floor.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/childCpns/l-floor/l-floor.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/login.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/login/login.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login/login.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order/order.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order/order.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order/order.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order/order.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pay/pay.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/pay.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/pay/pay.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/pay.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/pay/pay.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/pay.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pay/pay.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay/pay.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/search.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/search.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/childCpns/l-content/l-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/childCpns/l-content/l-content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/childCpns/l-content/l-content.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/childCpns/l-content/l-content.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/childCpns/l-content/l-content.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/childCpns/l-content/l-content.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/user/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/user.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/user/user.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/user.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/user/user.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/user/user.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.json" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,37 +114,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pay/pay.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pay/pay.wxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="144">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxml">
+        <entry file="file://$PROJECT_DIR$/components/d-swiper/d-swiper.wxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="144">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/d-nav/d-nav.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -86,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -95,16 +158,7 @@
         <entry file="file://$PROJECT_DIR$/pages/pay/pay.wxss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pay/pay.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -121,8 +175,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/cart/cart.json">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/category/category.json">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -148,9 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pages/index/index.wxml" />
-        <option value="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.wxss" />
-        <option value="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.js" />
         <option value="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.wxml" />
         <option value="$PROJECT_DIR$/pages/goods_detail/childCpns/l-content/l-content.wxss" />
         <option value="$PROJECT_DIR$/pages/goods_detail/goods_detail.wxss" />
@@ -158,7 +227,7 @@
         <option value="$PROJECT_DIR$/components/d-tabbar/d-tabbar.wxml" />
         <option value="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.wxml" />
         <option value="$PROJECT_DIR$/pages/goods_detail/childCpns/l-swiper/l-swiper.js" />
-        <option value="$USER_HOME$/Desktop/try/try.html" />
+        <option value="$PROJECT_DIR$/../try/try.html" />
         <option value="$PROJECT_DIR$/pages/user/user.wxss" />
         <option value="$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.wxss" />
         <option value="$PROJECT_DIR$/pages/user/user.json" />
@@ -191,7 +260,6 @@
         <option value="$PROJECT_DIR$/pages/cart/cart.js" />
         <option value="$PROJECT_DIR$/pages/cart/childCpns/l-bottom/l-bottom.js" />
         <option value="$PROJECT_DIR$/app.json" />
-        <option value="$PROJECT_DIR$/pages/cart/cart.json" />
         <option value="$PROJECT_DIR$/pages/cart/cart.wxml" />
         <option value="$PROJECT_DIR$/pages/pay/pay.json" />
         <option value="$PROJECT_DIR$/pages/pay/pay.wxml" />
@@ -199,14 +267,18 @@
         <option value="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxss" />
         <option value="$PROJECT_DIR$/pages/pay/pay.wxss" />
         <option value="$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.js" />
+        <option value="$PROJECT_DIR$/components/d-swiper/d-swiper.wxml" />
+        <option value="$PROJECT_DIR$/components/d-nav/d-nav.wxml" />
+        <option value="$PROJECT_DIR$/pages/cart/cart.json" />
+        <option value="$PROJECT_DIR$/pages/category/category.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="525" />
-    <option name="y" value="80" />
-    <option name="width" value="1267" />
-    <option name="height" value="890" />
+    <option name="x" value="720" />
+    <option name="y" value="117" />
+    <option name="width" value="3285" />
+    <option name="height" value="1785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -224,33 +296,13 @@
             <path>
               <item name="ugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ugo" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ugo" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ugo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ugo" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ugo" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pay" type="462c0819:PsiDirectoryNode" />
-              <item name="childCpns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ugo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ugo" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="pay" type="462c0819:PsiDirectoryNode" />
-              <item name="childCpns" type="462c0819:PsiDirectoryNode" />
-              <item name="l-list" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -305,17 +357,18 @@
       <workItem from="1597883076992" duration="27674000" />
       <workItem from="1597970588381" duration="1314000" />
       <workItem from="1597972014293" duration="25447000" />
+      <workItem from="1598707211495" duration="978000" />
+      <workItem from="1598709004725" duration="473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78016000" />
+    <option name="totallyTimeSpent" value="79467000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="525" y="80" width="1267" height="890" extended-state="0" />
-    <editor active="true" />
+    <frame x="183" y="47" width="1314" height="714" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19748954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16640127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,44 +393,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/user/user.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/login/login.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/login/login.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/user/childCpns/l-head/l-head.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -430,13 +445,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../新建文件夹/supermall/src/views/shopCart/ShopCart.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/新建文件夹/supermall/src/views/shopCart/ShopCart.vue" />
     <entry file="file://$PROJECT_DIR$/pages/cart/cart.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -606,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/cart/cart.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -620,52 +622,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/d-address/d-address.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/pay/pay.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/cart/cart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pay/pay.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/pay/pay.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pay/pay.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -676,10 +643,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pay/pay.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/d-address/d-address.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="144">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/d-list/d-list.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/d-swiper/d-swiper.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/d-nav/d-nav.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pay/pay.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pay/childCpns/l-list/l-list.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cart/cart.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/category/category.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>

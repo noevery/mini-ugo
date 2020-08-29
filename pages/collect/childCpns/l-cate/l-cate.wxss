@@ -1,0 +1,14 @@
+/* pages/collect/childCpns/l-cate/l-cate.wxss */
+.collect_title {
+    padding: 40rpx 0;
+}
+.collect_title .collect_tips {
+    padding: 15rpx;
+    border: 1rpx solid #ccc;
+    margin-left: 25rpx;
+    background-color: #fff;
+}
+.collect_title .active {
+    color: var(--themeColor);
+    border-color: currentColor;
+}

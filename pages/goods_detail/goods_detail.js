@@ -11,17 +11,28 @@ Page({
     id: '',
     banner: [],
     collect: {},
-    content: ''
+    content: '',
+    isCollect: false
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    this.data.id = options.id
 
+    this.data.id = options.id
     //获取商品详情数据
     this.__getGoodsDetail()
+    //获取收藏商品
+    const collectAll = wx.getStorageSync("collectAll") || []
+    //判断商品是否有收藏
+    collectAll.forEach(item => {
+      if (item.goods_id.toString() === options.id) {
+        this.setData({
+          isCollect: true
+        })
+      }
+    })
   },
 
   /**

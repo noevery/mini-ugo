@@ -1,4 +1,4 @@
-<!--pages/cart/childCpns/l-list/l-list.wxml-->
+<!--pages/cart/childCpns/d-list/d-list.wxml-->
 <view class="cart_content">
     <view class="cart_title">购物车</view>
     <view class="cart_main">

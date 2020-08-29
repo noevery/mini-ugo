@@ -13,6 +13,15 @@ Component({
   data: {
     collectNums: 0
   },
+  pageLifetimes: {
+  show() {
+    const collectNums = wx.getStorageSync("collectAll").length || 0
+    this.setData({
+      collectNums
+    })
+  }
+
+  },
 
   /**
    * 组件的方法列表

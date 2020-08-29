@@ -5,14 +5,19 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    tabList: ['商品收藏', '品牌收藏', '店铺收藏', '浏览器足迹'],
+    list: []
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-
+    const list = wx.getStorageSync("collectAll")
+    this.setData({
+      list
+    })
+    console.log(list);
   },
 
   /**

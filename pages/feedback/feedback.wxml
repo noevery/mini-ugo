@@ -1,2 +1,5 @@
-<!--pages/feedback/feedback.wxml-->
-<text>pages/feedback/feedback.wxml</text>
+<d-tab list="{{tabList}}"></d-tab>
+<view class="fb_main">
+    <l-species list="{{speciesList}}"></l-species>
+    <l-content></l-content>
+</view>

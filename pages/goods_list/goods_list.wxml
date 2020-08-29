@@ -1,4 +1,4 @@
 <!--pages/goods_list/goods_list.wxml-->
 <d-search-input></d-search-input>
-<d-tab bind:tabClick="changeTabIndex"></d-tab>
-<l-list list="{{goodsList}}" currentIndex="{{index}}"></l-list>
+<d-tab list="{{tabList}}" bind:tabClick="changeTabIndex"></d-tab>
+<d-list list="{{goodsList}}" currentIndex="{{index}}"></d-list>

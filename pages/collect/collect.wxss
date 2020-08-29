@@ -1,1 +1,4 @@
 /* pages/collect/collect.wxss */
+.collect_main {
+    background-color: #f3f4f6;
+}

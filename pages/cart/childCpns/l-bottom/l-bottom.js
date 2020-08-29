@@ -44,7 +44,10 @@ Component({
       }, 0)
 
       //数量
-      let totalNum = cart.filter(v => v.checked === true).length
+      let totalNum = cart.filter(v => v.checked === true).reduce((prev, v) =>{
+        return prev + v.num
+      }, 0)
+
 
       this.setData({
         totalPrice,

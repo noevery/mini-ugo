@@ -1,3 +1,8 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "d-tab": "/components/d-tab/d-tab",
+    "l-cate": "./childCpns/l-cate/l-cate",
+    "d-list": "/components/d-list/d-list"
+  },
+  "navigationBarTitleText": "收藏列表"
 }

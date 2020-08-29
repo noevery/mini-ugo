@@ -1,4 +1,4 @@
-// pages/pay/childCpns/l-list/l-list.js
+// pages/pay/childCpns/d-list/d-list.js
 Component({
   /**
    * 组件的属性列表

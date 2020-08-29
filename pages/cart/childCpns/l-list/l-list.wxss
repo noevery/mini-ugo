@@ -1,4 +1,4 @@
-/* pages/cart/childCpns/l-list/l-list.wxss */
+/* pages/cart/childCpns/d-list/d-list.wxss */
 .cart_content .cart_title {
     padding: 20rpx;
     font-size: 36rpx;

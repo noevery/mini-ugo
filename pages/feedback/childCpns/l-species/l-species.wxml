@@ -1,0 +1,8 @@
+<!--pages/feedback/childCpns/l-species/l-species.wxml-->
+<view class="fb_title">问题的种类</view>
+<view class="fb_tips">
+    <blokc wx:for="{{list}}"
+           wx:key="index">
+        <text>{{item}}</text>
+    </blokc>
+</view>

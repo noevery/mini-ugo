@@ -4,6 +4,6 @@
     "l-collection": "./childCpns/l-collection/l-collection",
     "l-content": "./childCpns/l-content/l-content",
     "l-tabbar": "./childCpns/l-tabbar/l-tabbar"
-
-  }
+  },
+  "navigationBarTitleText": "商品详情"
 }

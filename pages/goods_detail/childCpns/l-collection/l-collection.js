@@ -7,6 +7,10 @@ Component({
     collect: {
       type: Object,
       value: {}
+    },
+    isCollect: {
+      type: Boolean,
+      value: false
     }
   },
 
@@ -14,9 +18,9 @@ Component({
    * 组件的初始数据
    */
   data: {
-    isCollect: false,
-    collect: {}
+
   },
+
 
   /**
    * 组件的方法列表
@@ -36,20 +40,24 @@ Component({
       console.log(collect);
       const collectAll = wx.getStorageSync("collectAll") || []
       let index = collectAll.findIndex(item => item.goods_id == collect.goods_id)
-      console.log(index);
+
+      //收藏成功
       if (index === -1) {
         collectAll.push(collect)
+        collect.is_collect = true
         this.setData({
-          isCollect: true
+          isCollect: collect.is_collect
         })
         wx.showToast({
           title: '收藏成功',
           icon: 'success',
         })
+      //  取消收藏
       }else {
         collectAll.splice(index, 1)
+        collect.is_collect = false
         this.setData({
-          isCollect: false
+          isCollect: collect.is_collect
         })
         wx.showToast({
           title: '取消收藏',

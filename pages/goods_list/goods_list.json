@@ -2,7 +2,7 @@
   "usingComponents": {
     "d-search-input": "/components/d-search-input/d-search-input",
     "d-tab": "/components/d-tab/d-tab",
-    "l-list": "./childCpns/l-list/l-list"
+    "d-list": "/components/d-list/d-list"
   },
   "navigationBarTitleText": "商品列表",
   "enablePullDownRefresh": true,
